@@ -3,6 +3,7 @@ import tnc from "/images/tnc.png"
 import library from "/images/library.png"
 import absen from "/images/absen.png"
 import roomease from "/images/roomease.png"
+import file from "/images/file.png"
 
 const Project = () => {
   return (
@@ -27,11 +28,13 @@ const Project = () => {
         </div>
 
         <div className="flex flex-col items-center">
-          <img alt="Absensi" height="150" src={absen} width="150" className="mb-3 shadow-lg" />
+        <a href="https://cv-putri.vercel.app/">
+            <img alt="Curriculum Vitae" height="150" src={file} width="150" className="mb-3 rounded-full shadow-lg" />
+          </a>
           <h3 className="mb-1 text-xl font-medium text-gray-900 dark:text-white">
-            Absensi
+            <a href="https://cv-putri.vercel.app/">CV</a>
           </h3>
-          <span className="text-sm text-gray-500 dark:text-gray-400">(On Progress)</span>
+          <span className="text-sm text-gray-500 dark:text-gray-400">Curriculum Vitae</span>
         </div>
 
         <div className="flex flex-col items-center">
