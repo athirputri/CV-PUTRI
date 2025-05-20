@@ -13,7 +13,7 @@ const Footer = () => {
         <a href="https://github.com/athirputri" target="_blank" rel="noopener noreferrer">
           <AiFillGithub size="40px" />
         </a>
-        <a href="https://discord.com/channels/@athiraaww" target="_blank" rel="noopener noreferrer">
+        <a href="https://discord.com/users/984457526877769758" target="_blank" rel="noopener noreferrer">
           <AiOutlineDiscord size="40px" />
         </a>
         <a href="https://www.linkedin.com/in/putri-athira-zahra-15835a32b/" target="_blank" rel="noopener noreferrer">
